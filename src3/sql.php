@@ -11,7 +11,7 @@
       <button type="button" name="mainButton" onclick="location.href='sqlmainpage.html';">Main Page</button>
 	</div>
 
-	<div align="center">
+	<div align="center"> 
 	<form action="<?php $_SERVER['PHP_SELF']; ?>" method="post" >
 		<p>John -> Doe</p> 
 		First name : <input type="text" name="firstname">
